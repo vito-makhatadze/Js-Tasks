@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "vitali",
+      "username": "v_makhatadze",
+      "email": "vitomaxatadze@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "vitali",
+      "username": "v_makhatadze",
+      "email": "vitomaxatadze@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "vito",
+      "username": "v_makhatadze",
+      "email": "vitomaxatadze@gmail.com",
+      "id": 8
+    }
+  ]
+}
