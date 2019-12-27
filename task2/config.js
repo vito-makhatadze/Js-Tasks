@@ -1,7 +1,9 @@
- class MovieDb{
-     constructor(apiKey){
-         this.apiKey = apiKey;
+export default class MovieDb{
+
+     getAll() {
+         return fetch('https://jsonplaceholder.typicode.com/users/1')
      }
+
      getById(id){
         return fetch(`http://www.omdbapi.com/?i=${id}&apikey=${this.apiKey}`);
         
